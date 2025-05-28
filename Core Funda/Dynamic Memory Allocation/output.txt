@@ -1,0 +1,2 @@
+Age: 25
+ Inside main func Dynamic Variable: 25
