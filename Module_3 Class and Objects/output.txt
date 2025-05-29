@@ -1,0 +1,4 @@
+Name: Earth
+Mass: 5972
+Rotation Speed: 0.4651
+Distance: 1.496e+08
